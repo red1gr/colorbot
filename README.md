@@ -1,4 +1,4 @@
-# COLORBOT
+# COLORBOT SCRIPT
 
 
 
